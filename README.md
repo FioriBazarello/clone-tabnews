@@ -1,2 +1,2 @@
 # clone-tabnews
-Conteúdos para quem trabalha com Programação e Tecnologia
+Implementação do Tab News para o curso.dev
